@@ -4,3 +4,4 @@ word.reverse do |reversed|
   reversed
 end
 end
+end
