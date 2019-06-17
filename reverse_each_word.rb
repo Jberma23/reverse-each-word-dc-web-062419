@@ -4,3 +4,4 @@ string.split(",") do |sentence|
     word
 end
 end
+end
