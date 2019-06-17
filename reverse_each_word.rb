@@ -4,5 +4,5 @@ string.each do |word|
   word.reverse
   word.join("")
 end
-end
+
 end
